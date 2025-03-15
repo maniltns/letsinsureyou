@@ -3,8 +3,8 @@ import React from 'react';
 const Partners = () => {
   const insurers = [
     {
-      name: "Allianz",
-      logo: "https://images.unsplash.com/photo-1614680376739-414d95ff43df?auto=format&fit=crop&q=80&w=200&h=100"
+      name: "HDFC ERGO",
+      logo: "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/HDFC_logo.svg"
     },
     {
       name: "AXA",
