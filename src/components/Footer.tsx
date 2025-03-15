@@ -39,10 +39,11 @@ const Footer = () => {
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">Contact</h3>
             <ul className="mt-4 space-y-4">
-              <li className="text-base text-gray-300">123 Insurance Street</li>
-              <li className="text-base text-gray-300">Insurance City, IC 12345</li>
-              <li className="text-base text-gray-300">contact@letsinsureyou.com</li>
-              <li className="text-base text-gray-300">(555) 123-4567</li>
+              <li className="text-base text-gray-300">Lets Insure You</li>
+              <li className="text-base text-gray-300">No 166, 4th Cross, Mathrushree Garden</li>
+              <li className="text-base text-gray-300">Kolar Road, Malur, Karnataka, India</li>
+              <li className="text-base text-gray-300">letsinsureyou1@gmail.com</li>
+              <li className="text-base text-gray-300">+917019566062</li>
             </ul>
           </div>
         </div>
