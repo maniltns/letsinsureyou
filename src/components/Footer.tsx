@@ -15,7 +15,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="mt-4 text-gray-400">
-              Your trusted partner in finding the perfect insurance coverage for all your needs.
+              Your trusted partner in finding the perfect IT solutions for all your needs.
             </p>
           </div>
           <div>
@@ -25,6 +25,15 @@ const Footer = () => {
               <li><a href="#" className="text-base text-gray-300 hover:text-white">Personal Insurance</a></li>
               <li><a href="#" className="text-base text-gray-300 hover:text-white">Auto Insurance</a></li>
               <li><a href="#" className="text-base text-gray-300 hover:text-white">Life & Health</a></li>
+            </ul>
+          </div>
+          <div>
+          <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">IT Consulting & AI Agency</h3>
+            <ul className="mt-4 space-y-4">
+              <li><a href="#" className="text-base text-gray-300 hover:text-white">IT Staffing</a></li>
+              <li><a href="#" className="text-base text-gray-300 hover:text-white">AI Agency</a></li>
+              <li><a href="#" className="text-base text-gray-300 hover:text-white">Generative AI</a></li>
+              <li><a href="#" className="text-base text-gray-300 hover:text-white">IT Consulting</a></li>
             </ul>
           </div>
           <div>
